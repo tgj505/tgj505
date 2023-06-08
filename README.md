@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨Hello!✨
 
 <!--
 **tgj505/tgj505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I'm currently mid-batch at the [Recurse Center](https://www.recurse.com/), honing my Python, SQL, data engineering, and general programming skills. 
+- 🎵 Find some work from my prior life as a music theorist over [here](https://tom-johnson.net).
+- ✍️ I recently worked as an editorial strategist and writer for a [marketing and consulting agency](threefuries.com/).

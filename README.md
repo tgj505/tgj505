@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💻 I'm currently: mid-batch at the [Recurse Center](https://www.recurse.com/), honing my Python, SQL, data engineering, and general programming skills. 
 - 🌲 Working on:
-  - an accessible and robust dataset of [National Labor Relations Board](https://www.nlrb.gov) cases.
+  - an accessible and robust dataset of [National Labor Relations Board](https://www.nlrb.gov) cases. See [this repo](https://github.com/datatoolsrc2023/nlrb_data).
   - an app to visualize Canadian Wildland Fire Information System maps, called [firecan](https://github.com/tgj505/firecan).
 - ✍️ I recently worked: as an editorial strategist and writer for a [marketing and consulting agency](https://www.threefuries.com/).
 - 🎵 Music theory writing and related projects over at [this blog](https://tom-johnson.net).

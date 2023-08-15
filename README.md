@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 I'm currently: mid-batch at the [Recurse Center](https://www.recurse.com/), honing my Python, SQL, data engineering, and general programming skills. 
+- Currently looking for a position doing data, development, engineering, education, or just about anything.
+- 💻 Recently completed a batch at the [Recurse Center](https://www.recurse.com/), honing my Python, SQL, data engineering, and general programming skills. 
 - 🌲 Working on:
   - an accessible and robust dataset of [National Labor Relations Board](https://www.nlrb.gov) cases. See [this repo](https://github.com/datatoolsrc2023/nlrb_data).
   - an app to visualize Canadian Wildland Fire Information System maps, called [firecan](https://github.com/tgj505/firecan).

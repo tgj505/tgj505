@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently looking for a position doing data, development, engineering, education, or just about anything.
+- Database Developer doing lots of SQLy, Azure-y, SSIS, SSMS, Data Warehouse-y things.
 - 💻 Recently completed a batch at the [Recurse Center](https://www.recurse.com/), honing my Python, SQL, data engineering, and general programming skills. 
 - 🌲 Working on:
   - an accessible and robust dataset of [National Labor Relations Board](https://www.nlrb.gov) cases. See [this repo](https://github.com/datatoolsrc2023/nlrb_data).
